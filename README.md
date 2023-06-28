@@ -5,7 +5,7 @@
 `npm install farsidigits`
 
 ```javascript
-import farsiDigits from "farsidigits";
+import farsiNum from "farsinum";
 
 const myNumber = 0123456789;
 
@@ -23,4 +23,5 @@ farsiDigits(myNumber, 3, " ");
 
 // output -> 0 123 456 789
 ```
+
 # farsinum

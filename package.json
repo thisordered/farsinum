@@ -1,5 +1,5 @@
 {
-  "name": "farsinums",
+  "name": "farsinum",
   "version": "1.0.0",
   "description": "Simple function to convert English Numbers to Persian Numbers",
   "main": "index.js",
